@@ -1,7 +1,6 @@
 require_relative '../square_array'
 
-Square Array Lab :
-9:36
+
 numbers =
 [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
 def  square_array(numbers_list)
